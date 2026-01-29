@@ -1,0 +1,1 @@
+Hiii Welcome to Slurpp. Slurpp is an AI chef dedicated to- well, doing what chefs do- cook. Just say how you're feeling (and some preferences too) and we'll find something. There is only one rule, no claiming Slurpps recipes as your own. 
